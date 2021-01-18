@@ -1,3 +1,5 @@
-# CSI3531_A2
-Using threads, the following files do:
-Fibonacci: Displays a list of Fibonacci numbers
+# Operating Systems Assignment 2
+
+Using multithreading techniques, the following scripts:
+1. Display a list of Fibonacci numbers
+2. Display a list of prime numbers
